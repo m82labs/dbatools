@@ -1091,6 +1091,7 @@ if ($PSVersionTable.PSVersion.Major -lt 5) {
         'Test-DbaDiskAlignment',
         'Get-DbaStartupParameter',
         'Get-DbaSpn',
+        'Test-DbaS3BackupCompatibility',
         'Test-DbaSpn',
         'Set-DbaSpn',
         'Remove-DbaSpn',

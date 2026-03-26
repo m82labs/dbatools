@@ -706,6 +706,7 @@
         'Test-DbaPowerPlan',
         'Test-DbaInstantFileInitialization',
         'Test-DbaReplLatency',
+        'Test-DbaS3BackupCompatibility',
         'Test-DbaSpn',
         'Test-DbaTempDbConfig',
         'Test-DbaWindowsLogin',
